@@ -1,0 +1,19 @@
+
+ {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Play",
+                "type": "coreclr",
+                "request": "launch",
+                "preLaunchTask": "build",
+                "program":C:\Users\mecmag-4\Documents\2nd module 24\Godot_v4.4-beta1_mono_win64\Godot_v4.4-beta1_mono_win64,
+                "args": [],
+                "cwd": "${workspaceFolder}",
+                "stopAtEntry": false,
+            }
+    ]
+}
+     
+    
+   
